@@ -4,6 +4,7 @@
 
 I was able to containerize the cruddur app by firstly creating a dockerfile for each of the backend and frontend apps and the created a docker-compose file for the app as a whole
 
+> The frontend Dockerfile
 ![The frontend Dockerfile](assets/week-1/frontendApp-Dockerfile-wk1.png)
 
 > The frontend Dockerfile
