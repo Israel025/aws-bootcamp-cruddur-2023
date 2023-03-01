@@ -55,3 +55,12 @@ I was also able to write the notification react page following the instruction o
 #### Running Postgres Local Container and ensuring it works
 > Postgres local container works
 ![Postgres local container works](assets/week-1/postgress_working-wk1.png)
+
+# Week 1 — Extra efforts
+
+### Installation of snyx CLI
+I attempted to install the snyx CLI following the documentation below:
+
+> Link to snyx CLI installation documentation
+[Link to snyx CLI installation documentation](https://docs.snyk.io/snyk-cli/install-the-snyk-cli)
+![Image below](assets/week-1/install_snyx_CLI-wk1.png)
