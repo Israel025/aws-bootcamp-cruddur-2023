@@ -41,6 +41,17 @@ I was also able to write the notification react page following the instruction o
 > Notification UI page
 ![Notification UI page](assets/week-1/notification_ui_page-wk1.png)
 
-## Run DynamoDB Local Container and ensure it works
+### Run DynamoDB and Postgres Local Container
+> DynamoDB and Postgress docker-compose code
+![DynamoDB and Postgress docker-compose code](assets/week-1/dynamo_postgress_dockerCompose_code-wk1.png)
 
-## Run Postgres Container and ensure it works
+> DynamoDB and Postgress container running
+![DynamoDB and Postgress container running](assets/week-1/dynamo_postgres_containers_running-wk1.png)
+
+#### Running DynamoDB Local Container and ensuring it works
+> DynamoDB local container works
+![DynamoDB local container works](assets/week-1/dynamoDB_working-wk1.png)
+
+#### Running Postgres Local Container and ensuring it works
+> Postgres local container works
+![Postgres local container works](assets/week-1/postgress_working-wk1.png)
